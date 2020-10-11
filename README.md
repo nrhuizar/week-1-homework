@@ -1,3 +1,3 @@
-# Code Refactor Starter Code
-# Week-1-Homework-Horiseon
-# week-1-homework
+# Week 1 Homework
+
+Refractor of Horiseon Webpage
